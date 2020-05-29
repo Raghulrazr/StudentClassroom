@@ -6,6 +6,7 @@ The users of this website will be students.
 * [General info](#general-info)
 * [Setup](#setup)
 * [Code Details](#code-details)
+* [Database](#database)
 * [Contact](#contact)
 
 ## General info
@@ -14,7 +15,6 @@ Notifications are triggered when the following happen :
 2) A class wide notification is triggered by the staff
 3) When a friend of a student completes a course
 4) A remainder notification when one of enrolled courses is about to start
-
 
 For the purpose of this project the website will contain a student login.
 After login it will contain a student profile page alone with his basic and academic details.
@@ -37,19 +37,36 @@ http://localhost/Student_result_management/
 index.html - index page of web page.
 
 studentLoginAction - username and password is verified, also new registration is inserted into the database.
+
 studentLogin.html - Enter you username and password of student to login.
+
 StudentProfile.jsp - Acadamic details of student displayed here.
+
 message.jsp - Any notification trigered by the Admin is display.
+
 adminLogin.html - Admin can Login using username and password.
+
 adminProfile.jsp - Admin can view Registered student details, and also can make new registraton for students.
+
 registeredStudent.jsp - Registered student list displayed here.
+
 register1.jsp - registration form which get students details.
+
 adminLoginAction.jsp - username and password is verified, also new message to triger can be inserted.
+
 sendnotifi.html - can type messages and send to student notification tab. 
+
 errorAdminLogin.html - shows incorrect password or username to admin.
+
 errorStudentLogin.html - shows incorrect password or username to student.
+
 StudentDAOImpl - insert student data to database.
+
 AdminDAOImpl - insert messages to data base.
+
+## Database
+
+Here MySQL server version 5.5 is used. Because the use of the MySQL database server that utilize low-cost commodity hardware, can achieve amazing levels of scalability and performance, all at a cost that is far less. MySQL offers exceptional quick-start capability with the average time from software download to installation completion being less than fifteen minutes. open source nature of MySQL allows complete customization to add unique requirements to the database server.
 
 ## Contact
 Your Name - raghulsenthil6@gmail.com
