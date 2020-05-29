@@ -14,6 +14,8 @@ Notifications are triggered when the following happen :
 2) A class wide notification is triggered by the staff
 3) When a friend of a student completes a course
 4) A remainder notification when one of enrolled courses is about to start
+
+
 For the purpose of this project the website will contain a student login.
 After login it will contain a student profile page alone with his basic and academic details.
 There will be a separate notification menu -- top right corner of the page
@@ -33,6 +35,7 @@ http://localhost/Student_result_management/
 
 ## Code Details
 index.html - index page of web page.
+
 studentLoginAction - username and password is verified, also new registration is inserted into the database.
 studentLogin.html - Enter you username and password of student to login.
 StudentProfile.jsp - Acadamic details of student displayed here.
