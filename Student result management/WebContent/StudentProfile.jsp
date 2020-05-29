@@ -5,7 +5,7 @@
 <body bgcolor="lightseagreen">
 <table align="center" width = "80" height = "50">
          <tr>
-            <td><a href="index.html"><img src="G:\virtusa\companylogo_2019-04-400x400.png"  width="200" height="100"></a></td>
+            <td><a href="index.html"><img src="companylogo_2019-04-400x400.png"  width="200" height="100"></a></td>
          </tr>
  </table>
  <h1 align=center><a href="index.html"><font size = "8"><font color = "red">WELCOME TO EXAMLY</font></font></a></h1>
