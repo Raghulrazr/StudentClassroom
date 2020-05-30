@@ -6,7 +6,7 @@ The users of this website will be students.
 * [General info](#general-info)
 * [Setup](#setup)
 * [Code Details](#code-details)
-* [Screeshot](#screenshot)
+* [Screenshot](#screenshot)
 * [Database](#database)
 * [Contact](#contact)
 
