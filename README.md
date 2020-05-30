@@ -66,7 +66,7 @@ StudentDAOImpl - insert student data to database.
 AdminDAOImpl - insert messages to data base.
 
 ## Screenshots
-(https://screen.pdf)
+StudentClassroom/screen.pdf
 
 ## Database
 
