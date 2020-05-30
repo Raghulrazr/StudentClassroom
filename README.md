@@ -6,6 +6,7 @@ The users of this website will be students.
 * [General info](#general-info)
 * [Setup](#setup)
 * [Code Details](#code-details)
+* [Screeshot](#screenshot)
 * [Database](#database)
 * [Contact](#contact)
 
@@ -63,6 +64,9 @@ errorStudentLogin.html - shows incorrect password or username to student.
 StudentDAOImpl - insert student data to database.
 
 AdminDAOImpl - insert messages to data base.
+
+## Screenshots
+
 
 ## Database
 
